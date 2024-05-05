@@ -1,0 +1,39 @@
+{
+  "cSpell.words": [
+    "Ahrefs",
+    "ciphertext",
+    "commitlint",
+    "emazzotta",
+    "esbuild",
+    "fullscreen",
+    "geolocation",
+    "Hotmail",
+    "mdsvex",
+    "nosniff",
+    "okaidia",
+    "outfile",
+    "OWASP",
+    "pickpocketed",
+    "poppanator",
+    "Positionals",
+    "prismjs",
+    "privacyprotect",
+    "publickey",
+    "Qualys",
+    "SAMEORIGIN",
+    "sonarjs",
+    "sveltekit",
+    "tailwindcss",
+    "unpublish"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.validate": ["typescript"],
+  "files.watcherExclude": {
+    "**/dist": true,
+    "**/cache": true,
+    "**/cdk.out": true,
+    "**/coverage": true,
+    "**/node_modules": true,
+    "**/tmp": true
+  }
+}
